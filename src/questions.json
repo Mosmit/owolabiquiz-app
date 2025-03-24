@@ -1,0 +1,42 @@
+[
+    {
+        "title": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Caravaggio"],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "What is owolabi oluwaseun first nickname?",
+        "options": ["mosmit", "awuru", "dr", "martino"],
+        "correctOptionIndex": 1
+    },
+    {
+        "title": "Who is the current president of nigeria?",
+        "options": ["shetima", "tinubu", "jonathan", "obasanjo"],
+        "correctOptionIndex": 1
+    },
+    {
+        "title": "what is the capital of lagos?",
+        "options": ["mushin", "oshodi", "ikeja", "island"],
+        "correctOptionIndex": 2
+    },
+    {
+        "title": "Who is my react tutor?",
+        "options": ["jibola-shittu", "adewale", "Raphael", "john"],
+        "correctOptionIndex": 0
+    },
+    {
+        "title": "who is the current governor of lagos state?",
+        "options": ["ambode", "fasola", "tinubu", "sanwo-olu"],
+        "correctOptionIndex": 3
+    },
+    {
+        "title": "Digital Onboarders is a subset of what?",
+        "options": ["mind-the-space", "mind-the-air", "mind-the-gap", "mind-the-around"],
+        "correctOptionIndex": 2
+    }
+]

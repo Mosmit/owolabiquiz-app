@@ -150,3 +150,45 @@ button{
     background: orangered;
   }
 }
+
+/* Circular Timer Styles */
+.circular-timer {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 20px;
+}
+
+.timer-background {
+  fill: none;
+  stroke: #ddd;
+  stroke-width: 6;
+}
+
+.timer-progress {
+  fill: none;
+  stroke: #1428cd;
+  stroke-width: 6;
+  stroke-linecap: round;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+  transition: stroke-dashoffset 1s linear;
+}
+
+.timer-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: bold;
+  color: #111;
+}
+
+/* Remove the old progress bar styles */
+.progress-bar {
+  display: none;
+}
+.mos{
+  font-style: italic;
+}
